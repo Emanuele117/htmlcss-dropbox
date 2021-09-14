@@ -64,7 +64,7 @@ main .debug {
 }
 
 .colonna1 {
-    width: 20%;
+    width: 18%;
     height: 800px;
     background-color: orange;
     margin-left: 20%;
@@ -72,15 +72,208 @@ main .debug {
 }
 
 .colonna2 {
-    width: 20%;
+    width: 18%;
     height: 800px;
+    background-color: green;
+    float: left;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.colonna3 {
+    width: 18%;
+    height: 800px;
+    background-color: rgb(221, 241, 41);
+    float: left;
+}
+
+.team {
+    width: 60%;
+    height: 200px;
+    background-color: hotpink;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2rem;
+}
+
+.immagine-vetrata {
+    width: 60%;
+    height: 400px;
+    background-color: indigo;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 6rem;
+}
+
+.operazioni {
+    width: 60%;
+    height: 100px;
+    background-color: lightseagreen;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3rem;
+}
+
+.rettangolo1 {
+    width: 18%;
+    height: 500px;
+    background-color: red;
+    margin-left: 20%;
+    float: left;
+}
+
+.rettangolo2 {
+    width: 18%;
+    height: 500px;
+    background-color: green;
+    margin-left: 3%;
+    margin-right: 3%;
+    float: left;
+}
+
+.rettangolo3 {
+    width: 18%;
+    height: 500px;
+    background-color: violet;
+    float: left;
+}
+
+.rettangolo4 {
+    width: 18%;
+    height: 500px;
+    background-color: rgb(28, 26, 160);
+    margin-left: 20%;
+    margin-top: 3rem;
+    float: left;
+}
+
+.rettangolo5 {
+    width: 18%;
+    height: 500px;
+    background-color: rgb(26, 160, 77);
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3rem;
+    float: left;
+}
+
+.rettangolo6 {
+    width: 18%;
+    height: 500px;
+    background-color: rgb(173, 33, 87);
+    margin-top: 3rem;
+    float: left;
+}
+
+.business {
+    width: 40%;
+    height: 200px;
+    margin-left: 20%;
+    margin-top: 6rem;
+    background-color: blue;
+}
+
+.quadrato1 {
+    width: 50%;
+    height: 230px;
     background-color: green;
     float: left;
 }
 
-.colonna3 {
-    width: 20%;
-    height: 800px;
-    background-color: rgb(221, 241, 41);
+.quadrato2 {
+    width: 50%;
+    height: 230px;
+    background-color: rgb(128, 0, 0);
     float: left;
+}
+
+.quadrato3 {
+    width: 50%;
+    height: 230px;
+    background-color: rgb(83, 59, 121);
+    float: left;
+}
+
+.quadrato4 {
+    width: 50%;
+    height: 230px;
+    background-color: yellow;
+    float: left;
+}
+
+.rettangolo-design {
+    height: 460px;
+    width: 40%;
+    background-color: grey;
+    float: left;
+    margin-top: 3rem;
+}
+
+.quadrato5 {
+    width: 50%;
+    height: 230px;
+    background-color: yellow;
+    float: left;
+}
+
+.quadrato6 {
+    width: 50%;
+    height: 230px;
+    background-color: green;
+    float: left;
+}
+
+.quadrato7 {
+    width: 50%;
+    height: 230px;
+    background-color: rgb(128, 0, 0);
+    float: left;
+}
+
+.quadrato8 {
+    width: 50%;
+    height: 230px;
+    background-color: rgb(83, 59, 121);
+    float: left;
+}
+
+.settore1 {
+    width: 30%;
+    height: 460px;
+    /* background-color: red; */
+    float: left;
+    margin-top: 3rem;
+}
+
+.settore2 {
+    width: 30%;
+    height: 460px;
+    /* background-color: red; */
+    float: left;
+    margin-top: 3rem;
+}
+
+.azienda {
+    width: 100vw;
+    height: 460px;
+    background-color: lightskyblue;
+    float: left;
+}
+
+.domande-frequenti {
+    width: 60%;
+    height: 500px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5rem;
+    background-color: grey;
+    float: left;
+}
+
+/* /main */
+
+.footer {
+    background-color: black;
+    width: 100vw;
+    height: 600px;
 }
