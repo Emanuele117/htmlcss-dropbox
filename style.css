@@ -20,7 +20,7 @@ header .debug {
 }
 
 main .debug {
-    height: 1500px;
+    height: 2500px;
     width: 100vw;
 }
 
@@ -28,15 +28,52 @@ main .debug {
 
 .navbar1 {
     width: 50%;
-    height: 100px;
-    background-color: red;
+    height: 80px;
+    background-color: white;
     float: left;
+}
+
+.logo {
+    padding: 4%;
+    float: left;
+}
+
+.links {
+    text-decoration: none;
+    margin: 15px;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    float: left;
+}
+
+.links2 {
+    font-weight: bold;
+    font-size: 16px;
+    padding: 20px;
+    margin: 15px;
+    float: left;
+}
+
+.destra {
+    margin-left: 110px;
+}
+
+.bottone {
+    margin-top: 35px;
+}
+
+.inizia {
+    background-color: blue;
+    color: white;
+    padding: 1%;
+    font-size: 13px;
 }
 
 .navbar2 {
     width: 50%;
-    height: 100px;
-    background-color: royalblue;
+    height: 80px;
+    background-color: white;
     float: left;
 }
 
@@ -275,5 +312,7 @@ main .debug {
 .footer {
     background-color: black;
     width: 100vw;
-    height: 600px;
+    height: 500px;
+    float: left;
+    margin-top: 5rem;
 }
