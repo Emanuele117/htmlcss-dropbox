@@ -613,7 +613,81 @@ main .debug {
 .footer {
     background-color: black;
     width: 100vw;
-    height: 500px;
+    height: 650px;
     float: left;
     margin-top: 5rem;
+}
+
+.div-footer1 {
+    width: 200px;
+    height: 320px;
+    /* background-color: white; */
+    margin-left: 8rem;
+    margin-top: 6rem;
+    float: left;
+}
+
+.div-footer2 {
+    width: 200px;
+    height: 320px;
+    margin-left: 4rem;
+    margin-top: 6rem;
+    float: left;
+}
+
+.div-footer3 {
+    width: 200px;
+    height: 320px;
+    /* background-color: rgb(24, 172, 56); */
+    margin-left: 4rem;
+    margin-top: 6rem;
+    float: left;
+}
+
+.div-footer4 {
+    width: 200px;
+    height: 320px;
+    /*     background-color: rgb(61, 21, 136); */
+    margin-left: 4rem;
+    margin-top: 6rem;
+    float: left;
+}
+
+.div-footer5 {
+    width: 200px;
+    height: 320px;
+    /* background-color: rgb(194, 124, 34); */
+    margin-left: 4rem;
+    margin-top: 6rem;
+    float: left;
+}
+
+.hr2 {
+    width: 106px;
+    color: white;
+    float: left;
+    margin-top: -8rem;
+    margin-left: 8rem;
+}
+
+.titolo-lista {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.liste {
+    list-style: none;
+    line-height: 35px;
+    color: white;
+}
+
+.ita {
+    float: left;
+    color: lightgray;
+    margin: 8rem;
+    margin-top: -6rem;
+}
+
+.mondo {
+    filter: grayscale(1);
 }
