@@ -684,7 +684,7 @@ main .debug {
 .ita {
     float: left;
     color: lightgray;
-    margin: 8rem;
+    margin-left: 120px;
     margin-top: -6rem;
 }
 
