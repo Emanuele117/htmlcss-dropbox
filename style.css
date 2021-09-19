@@ -603,6 +603,10 @@ main .debug {
     width: 80%;
 }
 
+#corpo {
+    visibility: hidden;
+}
+
 .freccia {
     margin-left: 8rem;
     font-size: 40px;
@@ -690,4 +694,14 @@ main .debug {
 
 .mondo {
     filter: grayscale(1);
+}
+
+/* effetti */
+
+a:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: underline;
 }
